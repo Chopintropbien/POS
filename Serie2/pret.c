@@ -28,5 +28,3 @@ int main(void){
     
     reuturn 0;
 }
-
-CH22 00767 000T 5325 2978
